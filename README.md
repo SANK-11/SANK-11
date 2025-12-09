@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sank**
+# 👋 Hi, I'm **Sankalp**
 ### *AI & Robotics Enthusiast | Developer | Designer*
 
 Welcome to my GitHub! I build projects across **AI, robotics, automation, visualization, and creative 3D design**.  
@@ -9,10 +9,7 @@ I love experimenting, solving real-world problems, and bringing ideas to life.
 # 🔥 About Me  
 - 🎓 Master’s in **Robotics & Autonomous Systems (AI)** @ ASU  
 - 🤖 Working on **SLAM, NeRFs, and dynamic 3D mapping**  
-- 💻 Developer experienced in **Python, JS, Flutter, and Web Automation**  
-- 🌐 Passionate about **data visualization & interactive systems**  
-- 🎨 Designing a **3D printable race motorbike model**  
-- ☕ Powered by **coffee and curiosity**  
+- 💻 Developer experienced in **Python, JS, Flutter, and Web Automation**
 
 ---
 
@@ -108,23 +105,23 @@ I love experimenting, solving real-world problems, and bringing ideas to life.
 
 ---
 
-# 🏆 Achievements & Roles  
+# 🏆 Achievements & Roles 
+- Engagement Aide @ **ASU**
+- Joint Secretary @ **ISA @ ASU**
 - Lead Photographer @ **TEDx**  
 - Media Team Lead @ **GDSC**  
 - Logistics & Core Team @ **Toastmasters**  
-- Research Assistant in **Health & Data Analytics**
+
 
 ---
 
-# 📫 Connect With Me  
-[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/sankalp-mucherla-srinath)  
-Email: **sankalp.ms1@gmail.com**
+
 
 ---
 
 # 💡 Fun Fact  
-I believe the best projects come from mixing **logic, creativity, and curiosity** — and I'm always building something new.
+I believe the best projects come from mixing **logic, creativity, and curiosity**  and I'm always building something new.
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
