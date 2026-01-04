@@ -13,6 +13,7 @@ I love experimenting, solving real-world problems, and bringing ideas to life.
 
 ---
 
+
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sankalp-mucherla-srinath)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.ms1@gmail.com)
